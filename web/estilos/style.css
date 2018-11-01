@@ -1,0 +1,85 @@
+body{
+    background-color: lightblue;
+    padding: 70px;
+}
+#imagenAnimacion{
+    position: absolute;
+    left: 100px;
+}
+div.body{
+    text-align: center;
+}
+div.princi{
+    padding-bottom: 10px;
+}
+th,td{
+    font-size: 1.1em;
+    text-align: left;
+    padding: 15px 30px;
+}
+a.logout{
+    float: right;
+    color: darkblue;
+}
+a.logout:visited{
+    color: darkblue;
+}
+pre.descripcion{
+    font-size: 1em;
+    line-height: 2em;
+    white-space: pre-line;
+    text-align: justify;
+}
+hr,fieldset{
+    border-color: black;
+}
+fieldset{
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2em;
+    padding-top: 0em;
+    padding-bottom: 1em;
+}
+a.bienvenida{
+    font-size: 2.1em;
+    font-family: "Californian FB", fantasy, sans-serif;
+    padding-right: 25px;
+    padding-left: 70px;
+}
+a.SistemaTutor,div.nombreUsu{
+    font-size: 1.1em;
+    font-family: "Californian FB", fantasy, sans-serif;
+    text-align: center;
+}
+div.nombreUsu{
+    text-align: right;
+}
+img.iconoTestea{
+    height: 48px;
+    width:  48px;
+}
+table{
+   display: inline-block;
+   text-align: left;
+   background-color: white;
+  
+   
+}
+a.test,a.enlaceTutor{
+    color:  darkblue;
+    font-size: 1.2em;
+}
+div.iniciarSesion,div.registrarse{
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+div.reg{
+    padding: 18px;
+}
+input[type=submit]{
+    cursor: pointer;
+}
+p.error{
+    color: red;
+}
